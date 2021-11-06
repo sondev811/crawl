@@ -1,1 +1,1 @@
-node .\zingnews.js
+node .\zing.js
